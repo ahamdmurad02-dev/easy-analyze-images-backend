@@ -1,0 +1,9 @@
+{
+  "name": "easy-analyze-images-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}

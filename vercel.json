@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/analyze-image",
+      "destination": "/api/analyze-image"
+    }
+  ]
+}
